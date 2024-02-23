@@ -5,5 +5,5 @@
 Para iniciar esse projeto na sua máquina, por favor digite a linha de comando:
 
 ```
-npm install react
+node app.js
 ```
